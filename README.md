@@ -11,3 +11,11 @@
 
 #### jupyter 열기
 `jupyter notebook`
+
+
+#### 회의록
+https://docs.google.com/document/d/1fz7u0NgAv1QPoPPxvJc46UIE2ovExoYc-IG330SAPng/edit
+
+
+#### PPT
+https://docs.google.com/presentation/d/14PyNbV5jv35udGSFbbpsNn4c9nnhS3YuGw7EoS4AddU/edit#slide=id.p
