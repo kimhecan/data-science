@@ -8,6 +8,8 @@ jupyter = "*"
 pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
+seaborn = "*"
+networkx = "*"
 
 [dev-packages]
 
