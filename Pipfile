@@ -10,6 +10,7 @@ scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
 networkx = "*"
+mlxtend = "*"
 
 [dev-packages]
 
